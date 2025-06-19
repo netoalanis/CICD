@@ -10,6 +10,9 @@
     <p>This is a test of CI-CD</p>
     <?php
         echo "Hello, Git!";    
+        echo "<br>";
+        echo "This is a test of CI-CD pipeline.";
+        echo "<br>";
     ?>
 </body>
 </html>
